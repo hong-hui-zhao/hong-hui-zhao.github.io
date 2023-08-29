@@ -6,27 +6,26 @@ permalink: / Bioinformatics and Computational Biology/
 ---
 
 
-##### 05. 生物信息学
+# **Bioinformatics and Computational Biology**
 
-强烈推荐:
+**强烈推荐:**
 
 - [**Introduction to Bioinformatics and Computational Biology**](https://liulab-dfci.github.io/bioinfo-combio/)
 
-其他网上资源:
+**其他网上资源:**
 - [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
 - [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
 
-不错的参考书:
+**不错的参考书:**
 
 - **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
 - [**Bioinformatics Algorithms**](https://www.bioinformaticsalgorithms.org/)
 - Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
 - 生物信息学（第二版，樊龙江主编）
 
-### Productivity
 
 #### Data format
 
@@ -77,7 +76,7 @@ NGS data
 #### High quality genome annotations
 
 - [Ensembl Genomes](https://ensemblgenomes.org/)
-- [Eukaryotic and genomes annotated at NCBI](Eukaryotic genomes annotated at NCBI)
+- [Eukaryotic and genomes annotated at NCBI](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/all/)
 
 
 
@@ -86,97 +85,4 @@ NGS data
 - [Explain Shell](https://explainshell.com/)
 - [Decoding SAM flags](https://broadinstitute.github.io/picard/explain-flags.html)
 
-<br/>
-
-### Books and Journals
-
-#### Journals in Ecology and Evolution
-
-- [Trends in Ecology and Evolution](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)
-- [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys)
-- [Nature Review Genetics](https://www.nature.com/nrg/)
-- [Nature Genetics](https://www.nature.com/ng/)
-- [Molecular Biology and Evolution](https://academic.oup.com/mbe)
-- [Nature Ecology & Evolution](https://www.nature.com/natecolevol/)
-- [Ecology Letters](https://onlinelibrary.wiley.com/journal/14610248)
-- [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
-- [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
-- [Evolution](https://onlinelibrary.wiley.com/journal/15585646)
-- [Genetics](https://academic.oup.com/genetics)
-- [Genome Biology](https://genomebiology.biomedcentral.com/), [Genome Research](https://genome.cshlp.org/), ...
-- [Molecular Cell](https://www.sciencedirect.com/journal/molecular-cell), [Cell Research](https://www.nature.com/cr/), [elife](https://elifesciences.org/), ...
-- [Developmental Cell](https://www.sciencedirect.com/journal/developmental-cell), ...
-- [Nautre plants](https://www.nature.com/nplants/), [Nature Microbiology](https://www.nature.com/nmicrobiol/), [Molecular Plant](https://www.sciencedirect.com/journal/molecular-plant/), ...
-- Other multidisciplinary journals including [Cell](https://www.sciencedirect.com/journal/cell), [Nature](https://www.nature.com/), [Science](https://www.science.org/journal/science), ...
-
-
-
-#### Probability and Statistics
-
-- [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)
-- [Linear algebra done right](https://link.springer.com/book/10.1007/978-3-319-11080-6
-        
-        )
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
-- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
-- [Deep Learning](https://www.deeplearningbook.org/)
-
-
-
-#### Evolution and Ecology
-
-- [Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
-- [Mathematical Population Genetics](https://link.springer.com/book/10.1007/978-0-387-21822-9
-        
-        ) by Warren J. Ewens
-- [An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen & Montgomery Slatkin
-- [Theoretical Evolutionary Genetics](https://felsenst.github.io/pgbook/pgbook.html) by J. Felsenstein
-- [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
-- Coalescent Theory: An Introduction By John Wakeley
-
-
-
-#### Other lists of books on Statistics, Evolution, and Bioinformatics
-
-- [https://sgsa.berkeley.edu/current_students/books/](https://sgsa.berkeley.edu/current_students/books/)
-
-<br/>
-
-### Programming
-
-#### R
-
-Style guide: [tidyverse](https://style.tidyverse.org/)
-
-Learning resources:
-
-- [R for data science](https://r4ds.had.co.nz/)
-- [Advanced R](https://adv-r.hadley.nz/index.html)
-- [data.table](https://github.com/Rdatatable/data.table/wiki/Getting-started)
-- [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html) and [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html)
-
-
-
-#### python
-
-Style guide: [PEP](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)
-
-Learning resources:
-
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [pandas](https://pandas.pydata.org/)
-- [Real Python Tutorials](https://realpython.com/)
-
-
-
-#### Linux
-
-There are many reference books on linux:
-
-- UNIX and Linux System Administration Handbook
-- Linux Bible
-- Linux Administration: A Beginner's Guide
-- How Linux Works: What Every Superuser Should Know
-
-<br/>
+-----
