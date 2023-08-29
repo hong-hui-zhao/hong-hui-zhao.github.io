@@ -4,9 +4,9 @@ title: R
 nav_order: 5
 permalink: /R/
 ---
-<br/>
-## R
-##### 02. R
+
+# R
+
 
 R语言在统计分析和图形化展示方面具有独到的优势，在生物信息学和基因组学研究中广泛应用，我们必须对R语言和常用的package有足够的了解，才能在将来的工作中得心应手。
 
@@ -24,12 +24,15 @@ R语言入门
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 
-需要掌握的常用第三方package
 
-- `tidyverse`系列 - `dplyr` + `tidyr` + `readr`+`ggplot2`等
-- `data.table`
+Style guide: [tidyverse](https://style.tidyverse.org/)
 
-`dplyr`, `tidyr`, `readr`和`ggplot2`需要非常熟练。
+Learning resources:
+
+- [R for data science](https://r4ds.had.co.nz/)
+- [Advanced R](https://adv-r.hadley.nz/index.html)
+- [data.table](https://github.com/Rdatatable/data.table/wiki/Getting-started)
+- [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html) and [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html)
 
 
 <br/>
