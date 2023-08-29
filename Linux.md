@@ -4,9 +4,7 @@ title: Linux
 nav_order: 5
 permalink: /Linux/
 ---
-<br/>
-## Linux
-
+# *Linux*
 
 ### Linux 的起源
 1965年，为了解决服务器的终端连接数量的限制和处理复杂计算的问题，贝尔（Bell）实验室、通用电气（GE）公司以及麻省理工学院（MIT）决定联手打造一款全新的操作系统— MULTICS（多任务信息与计算系统）。但由于开发过程不顺利，遇到了诸多阻碍，后期连资金也出现了短缺现象，最终在1969年，随着贝尔实验室的退出，MULTICS 也终止了研发工作。而同年，MULTICS 的开发人员Ken Thompson使用汇编语言编写出了一款新的系统内核，当时被同事戏称为UNICS（联合信息与计算系统），在贝尔实验室内广受欢迎。
@@ -53,17 +51,30 @@ Linux 系统的吉祥物名为 Tux，是一只呆萌的小企鹅。相传 Linus 
 
 
 ### Linux 与 Windows 的区别
-![Uploading image.png…]()
+![image](https://github.com/hong-hui-zhao/hong-hui-zhao.github.io/assets/114247925/5fd7efa5-ea5a-4bba-adf9-00adbb6a288c)
+
 
 ### 如何在虚拟机上安装Linux
 
 如果使用Linux和Mac OS操作系统，可以直接在终端（Terminal）练习命令行的操作。如果使用Windows系统，可以用虚拟机，也可以从Windows应用商店安装Ubuntu子系统学习。
 
+#### 虚拟机下载及安装
+> [VMware](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro/workstation-pro-evaluation.html.html)
+> [安装](https://blog.csdn.net/weixin_74195551/article/details/127288338)
+### Ubuntu 安装及安装
+> [中国科学技术大学](https://mirrors.ustc.edu.cn/)
+> [兰州大学](https://mirror.lzu.edu.cn/)
+> [浙江大学](https://mirrors.ustc.edu.cn/)
+> [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
+> [阿里云](https://developer.aliyun.com/mirror/)
+> [安装](https://blog.csdn.net/qq_43374681/article/details/129248167)
 > [使用 WSL 在 Windows 上安装 Linux](https://learn.microsoft.com/zh-cn/windows/wsl/install)
 
 ### Linux 学习资料
-我们的学习目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，这里我们推荐：《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。可以跟着教程快速过一遍，没有必要死记硬背，在电脑上多加练习即可。掌握怎么查询每个命令的使用方法（`cmd -h`;  `man cmd`;百度谷歌），以后需要的时候可以快速找到帮助，多用几次就熟悉了。
+推荐：[《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。pdf下载,密码 kd67](https://pan.baidu.com/s/1Jr99oJmH9THsSAsjQT9hrg)
+online 
+[Linux命名大全（手册）](https://www.linuxcool.com/)
+[Linux 教程](https://www.w3cschool.cn/linux/)
+[《Linux就该这样学》](https://www.linuxprobe.com/)
 
-
-
-<br/>
+-----
