@@ -4,11 +4,9 @@ title: Python
 nav_order: 5
 permalink: /Python/
 ---
-<br/>
-## Python
-##### 03. Python
 
-网上有无数免费的python学习资源，B站也有很多视频教程，根据自己的喜好选择一个即可，重要的是得上手练，不能只看。专门讲如何用python做数据分析的书包括：
+# ** Python **
+专门讲如何用python做数据分析的书包括：
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Data Science from Scratch: First Principles with Python (2nd)
@@ -25,4 +23,14 @@ python代码书写规范
 
 - [Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
-<br/>
+
+Style guide: [PEP](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)
+
+Learning resources:
+
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [pandas](https://pandas.pydata.org/)
+- [Real Python Tutorials](https://realpython.com/)
+
+
+-----
