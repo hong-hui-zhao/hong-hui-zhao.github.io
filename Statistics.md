@@ -4,11 +4,6 @@ title: Statistics
 nav_order: 5
 permalink: /Statistics/
 ---
-<br/>
-
-##### 04. 概率统计
-
-应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。可以从这几本书开始：
 
 概率
 
@@ -28,3 +23,20 @@ permalink: /Statistics/
 - Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
+#### Probability and Statistics
+
+- [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)
+- [Linear algebra done right](https://link.springer.com/book/10.1007/978-3-319-11080-6)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
+- [Deep Learning](https://www.deeplearningbook.org/)
+
+------
+
+
+#### Other lists of books on Statistics, Evolution, and Bioinformatics
+
+- [https://sgsa.berkeley.edu/current_students/books/](https://sgsa.berkeley.edu/current_students/books/)
