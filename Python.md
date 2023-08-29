@@ -5,7 +5,7 @@ nav_order: 5
 permalink: /Python/
 ---
 
-# ** Python **
+# **Python**
 专门讲如何用python做数据分析的书包括：
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
