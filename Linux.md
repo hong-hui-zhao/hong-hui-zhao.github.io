@@ -59,22 +59,23 @@ Linux 系统的吉祥物名为 Tux，是一只呆萌的小企鹅。相传 Linus 
 如果使用Linux和Mac OS操作系统，可以直接在终端（Terminal）练习命令行的操作。如果使用Windows系统，可以用虚拟机，也可以从Windows应用商店安装Ubuntu子系统学习。
 
 #### 虚拟机下载及安装
-> [VMware](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro/workstation-pro-evaluation.html.html)
-> [安装](https://blog.csdn.net/weixin_74195551/article/details/127288338)
-### Ubuntu 安装及安装
-> [中国科学技术大学](https://mirrors.ustc.edu.cn/)
-> [兰州大学](https://mirror.lzu.edu.cn/)
-> [浙江大学](https://mirrors.ustc.edu.cn/)
-> [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
-> [阿里云](https://developer.aliyun.com/mirror/)
-> [安装](https://blog.csdn.net/qq_43374681/article/details/129248167)
-> [使用 WSL 在 Windows 上安装 Linux](https://learn.microsoft.com/zh-cn/windows/wsl/install)
+- > [VMware](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-pro/workstation-pro-evaluation.html.html)
+- > [安装](https://blog.csdn.net/weixin_74195551/article/details/127288338)
+  
+### Ubuntu 下载及安装
+- > [中国科学技术大学](https://mirrors.ustc.edu.cn/)
+- > [兰州大学](https://mirror.lzu.edu.cn/)
+- > [浙江大学](https://mirrors.ustc.edu.cn/)
+- > [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
+- > [阿里云](https://developer.aliyun.com/mirror/)
+- > [安装](https://blog.csdn.net/qq_43374681/article/details/129248167)
+- > [使用 WSL 在 Windows 上安装 Linux](https://learn.microsoft.com/zh-cn/windows/wsl/install)
 
 ### Linux 学习资料
-推荐：[《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。pdf下载,密码 kd67](https://pan.baidu.com/s/1Jr99oJmH9THsSAsjQT9hrg)
-online 
-[Linux命名大全（手册）](https://www.linuxcool.com/)
-[Linux 教程](https://www.w3cschool.cn/linux/)
-[《Linux就该这样学》](https://www.linuxprobe.com/)
+#### 推荐：
+- [《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。pdf下载,密码 kd67](https://pan.baidu.com/s/1Jr99oJmH9THsSAsjQT9hrg)
+- [Linux命名大全（手册）](https://www.linuxcool.com/)
+- [Linux 教程](https://www.w3cschool.cn/linux/)
+- [《Linux就该这样学》](https://www.linuxprobe.com/)
 
 -----
