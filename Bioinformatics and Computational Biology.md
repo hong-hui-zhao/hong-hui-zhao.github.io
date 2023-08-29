@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Learning
+title:  Bioinformatics and Computational Biology
 nav_order: 10
-permalink: /Learning/
+permalink: / Bioinformatics and Computational Biology/
 ---
 
 
