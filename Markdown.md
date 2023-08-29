@@ -16,7 +16,6 @@ permalink: /Markdowm/
 使用 Markdown 与使用 Word 类编辑器不同。在 Word 之类的应用程序中，单击按钮以设置单词和短语的格式，并且，更改立即可见。而 Markdown 与此不同，当你创建 Markdown 格式的文件时，可以在文本中添加 Markdown 语法，以指示哪些单词和短语看起来应该有所不同。<p>
 Markdown语法并不难掌握，这里有一个中文版的 Markdown 语法教程
 
-网址如下：[Markdown 基础语法](https://markdown.com.cn/)
+网址如下:[Markdown 基础语法](https://markdown.com.cn/)
 
-同时，使用Markdown的时候常常会使用 表格， 这里是一个自动生成表格语法的 Markdown 网站
-[table Generator](https://www.tablesgenerator.com/markdown_tables#)
+同时，使用Markdown的时候常常会使用 表格， 这里是一个自动生成表格语法的 [Markdown 网站](https://www.tablesgenerator.com/markdown_tables#)
