@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Learning
+title: Scientific literacy training
 nav_order: 10
-permalink: /Learning/
+permalink: /Scientific literacy training/
 ---
 
 
