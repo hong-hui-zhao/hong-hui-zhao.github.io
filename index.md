@@ -1,6 +1,6 @@
 ---
-layout: 介绍
-title: 介绍
+layout: Home
+title: Home
 nav_order: 1
 ---
 
