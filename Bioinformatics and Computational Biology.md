@@ -8,6 +8,9 @@ permalink: / Bioinformatics and Computational Biology/
 
 # **Bioinformatics and Computational Biology**
 
+# 起源及发展
+
+# learning resources
 **强烈推荐:**
 
 - [**Introduction to Bioinformatics and Computational Biology**](https://liulab-dfci.github.io/bioinfo-combio/)
@@ -18,7 +21,9 @@ permalink: / Bioinformatics and Computational Biology/
 - [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
-
+- [PLOB](https://www.plob.org/whatisplob.html) **(中文的，便于入门真的不错）**
+- [王进](https://www.jingege.wang/)
+- [Biostars](https://www.biostars.org/)
 **不错的参考书:**
 
 - **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
