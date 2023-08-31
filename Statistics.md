@@ -11,7 +11,7 @@ permalink: /Statistics/
 - Introduction to Probability Models （中文书名《应用随机过程：概率模型导论》）
 
 统计
-
+- [统计计算北大李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/statcomp/html/_statcompbook/index.html)
 - **Modern Mathematical Statistics with Applications** (Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton; 3rd, 2021)
 - [**Bayesian Data Analysis**](http://www.stat.columbia.edu/~gelman/book/)
 - [**An Introduction to Statistical Learning**](https://www.statlearning.com/) （包含大量如何在R中实现的例子）
