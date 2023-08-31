@@ -36,6 +36,7 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 - [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html)
 - [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html)
 - [Big Book of R](https://www.bigbookofr.com/)
+- [Rweekly](https://rweekly.org/)
 ## 3. R 语言可视化
 - [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) （ggplot2的作者写的书） 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) （一位进化生物学和计算生物学领域的专家写的书；非常不错）
