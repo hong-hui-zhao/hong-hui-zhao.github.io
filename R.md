@@ -24,7 +24,8 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 - An Introduction to R ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf))（官方简介；推荐先看这个）
 - [R package](https://r-pkgs.org/)（用当下流行的package介绍R；推荐后看）
 - [tidyverse](https://style.tidyverse.org/) Style guide
-
+- [R语言教程-北大李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+- [医学统计R语言](https://ayueme.github.io/index.html#%E6%9C%AC%E4%B9%A6%E7%BC%98%E8%B5%B7)
 ## 2. R 语言进阶
 - [Advanced R solution](https://advanced-r-solutions.rbind.io/)
 - [Advanced R](https://adv-r.hadley.nz/index.html) (R语言的深入剖析，看一看没坏处)
