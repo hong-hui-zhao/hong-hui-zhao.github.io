@@ -27,6 +27,9 @@ permalink: /Single Cell RNA-seq/
 通量较低的微吸管分类或者激光捕获显微切割。此类策略通常与通量较低的单细胞测序技术（Smart-seq2）配合针对少量目标细胞进行检测。
 通量较高的荧光激活细胞分选（FACS）或者磁珠分选（MACS）。此类策略通常与通量较高的单细胞测序技术（10X genomics）配合，对大量感兴趣的细胞亚群进行检测。所以，高通量特异性筛选的技术，本身需要与非特异性高通量技术配合，（如FACS 预筛选T细胞，然后用10x genomics 检测）
 ### 单细胞分析的上游步骤
+1. 以公共数据库为例，一般，在 GEO 数据上我们下载得到都是 SRR 数据。使用 sratoolkit 以及 aspera 这两个软件进行下载 [下载教程](https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247484146&idx=1&sn=16e09b82d048eed1ff6100b22970abd5&scene=21#wechat_redirect)，而在 EBI 数据上，我们既可以选择 SRR 数据，也可以选择 fastq 文件。
+2. 我们拿到 SRR 数据后，需要将 SRR 数据转为 fastq 文件，我们用的是 sra-tools [这个软件进行处理](https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247484179&idx=1&sn=fe84f5243a6021fe6afea128e3ac273a&scene=21#wechat_redirect)
+3. [Cell Ranger](https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247484355&idx=1&sn=7860fe0c46073a55d2d3700822c3103b&scene=21#wechat_redirect)
 ### 单细胞分析的基本步骤 （下游）
 ### 单细胞分析的高阶步骤 （下游）
 ### 单细胞学习资源
