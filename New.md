@@ -7,6 +7,9 @@ permalink: /News/
 
 # NEWs 
 ### 2023 9 10 
-![figure1](https://github.com/hong-hui-zhao/hong-hui-zhao.github.io/blob/master/file/8a3d9d0187cdac5bd33fe0532870e3f.jpg)
+<p align="center">
+  <img align="middle" src="/files/Group_profile.jpg" width="740">
+  <br>
+</p>
 
                                                       实验室聚会
