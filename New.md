@@ -8,7 +8,7 @@ permalink: /News/
 # NEWs 
 ### 2023 9 10 
 <p align="center">
-  <img align="middle" src="/files/figure1.jpg" width="740">
+  <img align="middle" src="/file/figure1.jpg" width="740">
   <br>
 </p>
 
